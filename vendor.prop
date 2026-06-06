@@ -259,6 +259,16 @@ ro.vendor.mediatek.platform=MT6785
 ro.vendor.mediatek.version.branch=alps-mp-r0.mp1.tc8sp
 ro.vendor.mediatek.version.release=alps-mp-r0.mp1.tc8sp-V1_xiaomi.mgr.r0mp1.k6889v1.64_P100
 
+# MistOS About
+ro.mist.display=1080 x 2340, 60 Hz
+ro.mist.battery=4500mAh
+ro.mist.soc=MediaTek Helio G90T (MT6785V/CC)
+ro.mist.camera=64MP + 8MP + 2MP + 2MP
+ro.mist.front=20MP
+ro.mist.platform=MT6785
+ro.mist.screen=6.53" IPS LCD
+ro.mist.device.name=Redmi Note 8 Pro
+
 # Netflix
 ro.netflix.bsp_rev=MTK6785-18758-1
 
